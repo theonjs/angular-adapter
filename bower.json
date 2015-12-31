@@ -31,5 +31,9 @@
   ],
   "devDependencies": {
     "theon.js": "~0.1.23"
+  },
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-mocks": "~1.4.8"
   }
 }
