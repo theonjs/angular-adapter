@@ -1,0 +1,29 @@
+{
+  "name": "theon-angular-adapter",
+  "version": "0.3.0",
+  "description": "Angular's $http agent adapter for theon based API clients",
+  "license": "MIT",
+  "author": "Tomas Aparicio",
+  "repository": "theonjs/theon-angular-adapter",
+  "main": "angular-adapter.js",
+  "keywords": [
+    "theon",
+    "adapter",
+    "http",
+    "adapter",
+    "api",
+    "angular"
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "browserify": "^5.9.1",
+    "chai": "^1.9.1",
+    "http-server": "^0.6.1",
+    "mocha-phantomjs": "^3.4.1",
+    "phantomjs": "^1.9.7-9",
+    "sinon": "^1.10.3",
+    "uglify-js": "^2.4.15"
+  }
+}
