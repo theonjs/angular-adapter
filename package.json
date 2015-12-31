@@ -1,6 +1,6 @@
 {
   "name": "theon-angular-adapter",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "Angular's $http agent adapter for theon based API clients",
   "license": "MIT",
   "author": "Tomas Aparicio",
