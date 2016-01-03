@@ -4,7 +4,7 @@
   "description": "Angular's $http agent adapter for theon based API clients",
   "license": "MIT",
   "author": "Tomas Aparicio",
-  "repository": "theonjs/theon-angular-adapter",
+  "repository": "theonjs/angular-adapter",
   "main": "angular-adapter.js",
   "keywords": [
     "theon",
