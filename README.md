@@ -2,7 +2,7 @@
 
 AngularJS [$http](https://docs.angularjs.org/api/ng/service/$http) agent adapter for theon based API clients
 
-Works with Angular `+1.0`.
+Works with AngularJS `+1.0` and theon `+0.1`.
 
 ## Installation
 
