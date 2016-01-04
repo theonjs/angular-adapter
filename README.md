@@ -1,4 +1,4 @@
-# theon-angular-adapter [![Build Status](https://api.travis-ci.org/theonjs/theon-angular-adapter.svg?branch=master)][travis]
+# theon-angular-adapter [![Build Status](https://api.travis-ci.org/theonjs/angular-adapter.svg?branch=master)][travis]
 
 AngularJS [$http](https://docs.angularjs.org/api/ng/service/$http) agent adapter for theon based API clients
 
