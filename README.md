@@ -18,7 +18,7 @@ bower install theon-angular-adapter
 
 Or loading the script remotely
 ```html
-<script src="//cdn.rawgit.com/theonjs/theon-angular-adapter/master/angular-adapter.js"></script>
+<script src="//cdn.rawgit.com/theonjs/angular-adapter/master/angular-adapter.js"></script>
 ```
 
 ### Environments
